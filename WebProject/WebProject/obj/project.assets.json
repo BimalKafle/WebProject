@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WebProject\\WebProject\\WebProject\\WebProject\\WebProject.csproj",
-      "projectName": "WebProject",
-      "projectPath": "E:\\WebProject\\WebProject\\WebProject\\WebProject\\WebProject.csproj",
+      "projectUniqueName": "E:\\WebProject\\WebProject\\WebProject\\WebProject\\E-Ticketing.csproj",
+      "projectName": "E-Ticketing",
+      "projectPath": "E:\\WebProject\\WebProject\\WebProject\\WebProject\\E-Ticketing.csproj",
       "packagesPath": "C:\\Users\\Bimal Kafle\\.nuget\\packages\\",
       "outputPath": "E:\\WebProject\\WebProject\\WebProject\\WebProject\\obj\\",
       "projectStyle": "PackageReference",
