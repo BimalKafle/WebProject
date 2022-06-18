@@ -1,0 +1,6 @@
+E:\WebProject\WebProject\WebProject\E-Ticketing.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+E:\WebProject\WebProject\WebProject\E-Ticketing.Test\obj\Debug\net6.0\E-Ticketing.Test.csproj.AssemblyReference.cache
+E:\WebProject\WebProject\WebProject\E-Ticketing.Test\obj\Debug\net6.0\E-Ticketing.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebProject\WebProject\WebProject\E-Ticketing.Test\obj\Debug\net6.0\E-Ticketing.Test.AssemblyInfoInputs.cache
+E:\WebProject\WebProject\WebProject\E-Ticketing.Test\obj\Debug\net6.0\E-Ticketing.Test.AssemblyInfo.cs
+E:\WebProject\WebProject\WebProject\E-Ticketing.Test\obj\Debug\net6.0\E-Ticketing.Test.csproj.CoreCompileInputs.cache
