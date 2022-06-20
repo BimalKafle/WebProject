@@ -8,8 +8,8 @@ namespace E_Ticketing.CoreLayer.Entity
 {
     public class City
     {
-        public readonly string Active = "Active";
-        public readonly string Inactive = "Inactive";
+        public static readonly string Active = "Active";
+        public static readonly string Inactive = "Inactive";
 
         protected City()
         {
@@ -30,7 +30,10 @@ namespace E_Ticketing.CoreLayer.Entity
         {
             Status = Active;
         }
-
+        public void Deactivate()
+        {
+            Status = Inactive;
+        }
         public Boolean IsActive()
         {
             return Status == Active;

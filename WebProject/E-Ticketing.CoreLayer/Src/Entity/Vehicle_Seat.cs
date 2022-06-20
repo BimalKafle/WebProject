@@ -8,8 +8,9 @@ namespace E_Ticketing.CoreLayer.Entity
 {
     public class Vehicle_Seat
     {
-        public readonly string SeatStatusBooked="Booked";
-        public readonly string SeatStatusAvailable = "Available";
+        public static readonly string SeatStatusBooked="Booked";
+        public static readonly string SeatStatusAvailable = "Available";
+        public static readonly string SeatStatusCancel = "Cancelled";
 
         protected Vehicle_Seat( )
         {
@@ -34,9 +35,14 @@ namespace E_Ticketing.CoreLayer.Entity
             return SeatStatus == SeatStatusAvailable;
         }
 
-        public void BookVehicleSeat()
+        public void BookSeat()
         {
             SeatStatus = SeatStatusBooked;
+        }
+
+        public void CancelSeat()
+        {
+            SeatStatus = SeatStatusCancel;
         }
     }
 }

@@ -9,12 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Src\DTO\VehicleSeat\" />
-    <Folder Include="Src\Exceptions\" />
-    <Folder Include="Src\Service\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\WebProject\E-Ticketing.csproj" />
   </ItemGroup>
 

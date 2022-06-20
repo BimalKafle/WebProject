@@ -25,5 +25,25 @@ namespace E_Ticketing.Test.Entity.VehicleTest
             Assert.Equal("Sakira", vehicle.Vehicle_Name);
         }
 
+        [Fact]
+        public void Test_IsActive_returns_true_if_vehicle_isActive()
+        {
+            Assert.True(vehicle.IsActive());
+        }
+        [Fact]
+        public void Test_Activate_activates_the_vehicle()
+        {
+            vehicle.Deactivate();
+            vehicle.Activate();
+            Assert.True(vehicle.IsActive());
+        }
+
+        [Fact]
+        public void Test_deactivate_deactivates_thevehicle_status()
+        {
+            vehicle.Deactivate();
+            Assert.Equal(Vehicle.Inactive, vehicle.Vehicle_Status);
+        }
+
     }
 }

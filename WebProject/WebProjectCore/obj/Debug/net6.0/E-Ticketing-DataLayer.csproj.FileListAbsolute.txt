@@ -1,0 +1,12 @@
+E:\WebProject\WebProject\WebProject\WebProjectCore\bin\Debug\net6.0\E-Ticketing-DataLayer.deps.json
+E:\WebProject\WebProject\WebProject\WebProjectCore\bin\Debug\net6.0\E-Ticketing-DataLayer.dll
+E:\WebProject\WebProject\WebProject\WebProjectCore\bin\Debug\net6.0\E-Ticketing-DataLayer.pdb
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E-Ticketing-DataLayer.csproj.AssemblyReference.cache
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E-Ticketing-DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E-Ticketing-DataLayer.AssemblyInfoInputs.cache
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E-Ticketing-DataLayer.AssemblyInfo.cs
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E-Ticketing-DataLayer.csproj.CoreCompileInputs.cache
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E-Ticketing-DataLayer.dll
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\refint\E-Ticketing-DataLayer.dll
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E-Ticketing-DataLayer.pdb
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\ref\E-Ticketing-DataLayer.dll

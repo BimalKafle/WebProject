@@ -8,8 +8,8 @@ namespace E_Ticketing.CoreLayer.Entity
 {
     public class Vehicle
     {
-        public readonly string Active = "Active";
-        public readonly string Inactive = "Inactive";
+        public static readonly string Active = "Active";
+        public  static readonly string Inactive = "Inactive";
         public Vehicle( string vehicle_Number, Vehicle_Category vehicle_Category, string vehicle_Name)
         {
             
@@ -31,7 +31,10 @@ namespace E_Ticketing.CoreLayer.Entity
         {
             Vehicle_Status = Active;
         }
-
+        public void Deactivate()
+        {
+            Vehicle_Status = Inactive;
+        }
         public Boolean IsActive()
         {
             return Vehicle_Status == Active;
