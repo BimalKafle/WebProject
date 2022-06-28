@@ -5,11 +5,11 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Ticketing", "WebProject\E-Ticketing.csproj", "{E0183D7A-F229-4848-991F-117DFD75EBA2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Ticketing-DataLayer", "WebProjectCore\E-Ticketing-DataLayer.csproj", "{60F4C64C-FF08-4091-8001-5F9CD3488D1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_Ticketing.DataLayer", "WebProjectCore\E_Ticketing.DataLayer.csproj", "{60F4C64C-FF08-4091-8001-5F9CD3488D1C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Ticketing.CoreLayer", "E-Ticketing.CoreLayer\E-Ticketing.CoreLayer.csproj", "{2D229418-4066-47C7-84E2-6896D826C598}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Ticketing.Test", "E-Ticketing.Test\E-Ticketing.Test.csproj", "{3E1B672F-3F4D-4CE5-BB56-01FED23C26AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Ticketing.Test", "E-Ticketing.Test\E-Ticketing.Test.csproj", "{3E1B672F-3F4D-4CE5-BB56-01FED23C26AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
