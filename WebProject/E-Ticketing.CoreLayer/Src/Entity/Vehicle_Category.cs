@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace E_Ticketing.CoreLayer.Entity
 {
-    public class Vehicle_Category
+    public class VehicleCategory
     {
         public static readonly string Active = "Active";
         public static readonly string Inactive = "Inactive";
 
-        protected Vehicle_Category()
+        protected VehicleCategory()
         {
 
         }
-        public Vehicle_Category(string name) {
+        public VehicleCategory(string name) {
             Category_Name = name;
             Status = Active;
         }   
@@ -37,6 +37,11 @@ namespace E_Ticketing.CoreLayer.Entity
         public Boolean IsActive()
         {
             return Status == Active;
+        }
+
+        public void UpdateName(string Name)
+        {
+            Category_Name = Name;
         }
 
     }

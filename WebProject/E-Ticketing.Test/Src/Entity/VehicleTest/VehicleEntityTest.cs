@@ -11,7 +11,7 @@ namespace E_Ticketing.Test.Entity.VehicleTest
     public class VehicleEntityTest
     {
         public readonly Vehicle vehicle;
-        public readonly Vehicle_Category category;
+        public readonly VehicleCategory category;
         public VehicleEntityTest()
         {
             category = new("Mini Bus");

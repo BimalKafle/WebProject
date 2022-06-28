@@ -9,10 +9,10 @@ namespace E_Ticketing.CoreLayer.Repository
 {
     public interface VehicleCategoryRepositoryInterface
     {
-        public Task Insert(Vehicle_Category category);
-        public Task Update(Vehicle_Category category);
-        public Task<Vehicle_Category> GetById(long Id);
-        public Task<IEnumerable<Vehicle_Category>> GetAll();
+        public Task Insert(VehicleCategory category);
+        public Task Update(VehicleCategory category);
+        public Task<VehicleCategory> GetById(long Id);
+        public Task<IEnumerable<VehicleCategory>> GetAll();
         
     }
 }
