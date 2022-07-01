@@ -20,7 +20,7 @@ namespace E_Ticketing.DataLayer.Mapping
             builder.Property(e => e.Status).HasColumnName("status");
 
             builder.HasMany<Vehicle>(t => t.Vehicles)
-              .WithOne(v => v.Vehicle_Category).HasForeignKey(v => v.Vehicle_Category_Id).OnDelete(DeleteBehavior.Restrict);
+              .WithOne(v => v.Vehicle_Category).HasForeignKey(v => v.Vehicle_CategoryId).OnDelete(DeleteBehavior.Restrict);
         }
     }
 }

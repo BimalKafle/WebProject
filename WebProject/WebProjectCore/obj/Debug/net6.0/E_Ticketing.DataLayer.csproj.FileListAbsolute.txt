@@ -1,0 +1,17 @@
+E:\WebProject\WebProject\WebProject\WebProjectCore\bin\Debug\net6.0\E_Ticketing.DataLayer.deps.json
+E:\WebProject\WebProject\WebProject\WebProjectCore\bin\Debug\net6.0\E_Ticketing.DataLayer.dll
+E:\WebProject\WebProject\WebProject\WebProjectCore\bin\Debug\net6.0\E_Ticketing.DataLayer.pdb
+E:\WebProject\WebProject\WebProject\WebProjectCore\bin\Debug\net6.0\E-Ticketing.CoreLayer.dll
+E:\WebProject\WebProject\WebProject\WebProjectCore\bin\Debug\net6.0\E-Ticketing.CoreLayer.pdb
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E_Ticketing.DataLayer.csproj.AssemblyReference.cache
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E_Ticketing.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E_Ticketing.DataLayer.AssemblyInfoInputs.cache
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E_Ticketing.DataLayer.AssemblyInfo.cs
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E_Ticketing.DataLayer.csproj.CoreCompileInputs.cache
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E_Ticketing.DataLayer.csproj.CopyComplete
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E_Ticketing.DataLayer.dll
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\refint\E_Ticketing.DataLayer.dll
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E_Ticketing.DataLayer.pdb
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\ref\E_Ticketing.DataLayer.dll
+E:\WebProject\WebProject\WebProject\WebProjectCore\bin\Debug\net6.0\E_Ticketing.DataLayer.runtimeconfig.json
+E:\WebProject\WebProject\WebProject\WebProjectCore\obj\Debug\net6.0\E_Ticketing.DataLayer.genruntimeconfig.cache

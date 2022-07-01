@@ -24,3 +24,17 @@ E:\WebProject\WebProject\WebProject\WebProject\obj\Debug\net6.0\refint\E-Ticketi
 E:\WebProject\WebProject\WebProject\WebProject\obj\Debug\net6.0\E-Ticketing.pdb
 E:\WebProject\WebProject\WebProject\WebProject\obj\Debug\net6.0\E-Ticketing.genruntimeconfig.cache
 E:\WebProject\WebProject\WebProject\WebProject\obj\Debug\net6.0\ref\E-Ticketing.dll
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\MySqlConnector.dll
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\E-Ticketing.CoreLayer.dll
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\E_Ticketing.DataLayer.dll
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\E_Ticketing.DataLayer.pdb
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\E-Ticketing.CoreLayer.pdb
+E:\WebProject\WebProject\WebProject\WebProject\obj\Debug\net6.0\E-Ticketing.csproj.CopyComplete
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+E:\WebProject\WebProject\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

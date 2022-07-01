@@ -1713,25 +1713,9 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "E-Ticketing/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/E-Ticketing.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/E-Ticketing.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
       "E-Ticketing.CoreLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "E-Ticketing": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/E-Ticketing.CoreLayer.dll": {}
         },
@@ -6008,11 +5992,6 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
-    },
-    "E-Ticketing/1.0.0": {
-      "type": "project",
-      "path": "../WebProject/E-Ticketing.csproj",
-      "msbuildProject": "../WebProject/E-Ticketing.csproj"
     },
     "E-Ticketing.CoreLayer/1.0.0": {
       "type": "project",

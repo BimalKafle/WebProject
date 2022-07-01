@@ -527,7 +527,28 @@
           "System.Threading": "4.3.0"
         }
       },
-      "System.Diagnostics.EventLog/6.0.0": {},
+      "System.Diagnostics.EventLog/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
       "System.Diagnostics.Tools/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -1107,15 +1128,7 @@
         }
       },
       "xunit.runner.visualstudio/2.4.5": {},
-      "E-Ticketing/1.0.0": {
-        "runtime": {
-          "E-Ticketing.dll": {}
-        }
-      },
       "E-Ticketing.CoreLayer/1.0.0": {
-        "dependencies": {
-          "E-Ticketing": "1.0.0"
-        },
         "runtime": {
           "E-Ticketing.CoreLayer.dll": {}
         }
@@ -1785,11 +1798,6 @@
       "sha512": "sha512-OwHamvBdUKgqsXfBzWiCW/O98BTx81UKzx2bieIOQI7CZFE5NEQZGi8PBQGIKawDW96xeRffiNf20SjfC0x9hw==",
       "path": "xunit.runner.visualstudio/2.4.5",
       "hashPath": "xunit.runner.visualstudio.2.4.5.nupkg.sha512"
-    },
-    "E-Ticketing/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "E-Ticketing.CoreLayer/1.0.0": {
       "type": "project",

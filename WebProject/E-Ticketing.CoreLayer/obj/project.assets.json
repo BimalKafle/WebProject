@@ -1,33 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "E-Ticketing/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/E-Ticketing.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/E-Ticketing.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "E-Ticketing/1.0.0": {
-      "type": "project",
-      "path": "../WebProject/E-Ticketing.csproj",
-      "msbuildProject": "../WebProject/E-Ticketing.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "E-Ticketing >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Bimal Kafle\\.nuget\\packages\\": {},
@@ -59,11 +37,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "E:\\WebProject\\WebProject\\WebProject\\WebProject\\E-Ticketing.csproj": {
-              "projectPath": "E:\\WebProject\\WebProject\\WebProject\\WebProject\\E-Ticketing.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

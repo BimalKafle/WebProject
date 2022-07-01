@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using E_Ticketing.CoreLayer.Entity;
+using E_Ticketing.DataLayer.Mapping;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,6 +32,18 @@ namespace E_Ticketing.DataLayer.DataAccess
 
         }
 
-        
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+
+            modelBuilder.ApplyConfiguration(new VehicleCategoryMapping());
+            modelBuilder.ApplyConfiguration(new VehicleMapping());
+
+
+
+        }
+        public DbSet<VehicleCategory> vehicle_categories { get; set; }
+        public DbSet<Vehicle> vehicles { get; set; }
+
     }
 }
